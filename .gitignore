@@ -1,0 +1,17 @@
+# Node.js
+node_modules/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Build files
+build/
+dist/
+
+# Environment files
+.env
+.env.local
